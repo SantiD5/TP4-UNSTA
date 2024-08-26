@@ -100,5 +100,3 @@
 2. Ordenar los números.
 3. Imprimir los números en orden ascendente.  
 4. Imprimir un mensaje si los números son iguales.
-
-Este formato en Markdown te permite presentar de manera estructurada y clara cada uno de los problemas y sus soluciones, haciendo que tu `README.md` sea informativo y fácil de seguir.
